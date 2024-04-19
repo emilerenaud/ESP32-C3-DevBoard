@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESP32C3-DevBoard.PcbDoc   2024-04-18  22:24:23
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ESP32C3-DevBoard-RoundHoles.TXT
+ASCII SlotHoles File : ESP32C3-DevBoard-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             80        PTH        174.88mm (6.89inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        38.68mm (1.52inch)
+T3      1mm (39mil)                                               Round             20        PTH        88.90mm (3.50inch)
+T4      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              106
+
+Total Processing Time (hh:mm:ss) : 00:00:00

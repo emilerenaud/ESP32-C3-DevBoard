@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Git\ESP32-C3-DevBoard\ESP32C3-DevBoard.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp32c3-devboard-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp32c3-devboard-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

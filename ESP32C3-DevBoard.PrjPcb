@@ -116,6 +116,82 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Design Rule Check - ESP32C3-DevBoard.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\NC Drill\ESP32C3-DevBoard-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\NC Drill\ESP32C3-DevBoard-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\NC Drill\ESP32C3-DevBoard.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\NC Drill\ESP32C3-DevBoard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for ESP32C3-DevBoard\Gerber\Gerber\ESP32C3-DevBoard.RUL
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
